@@ -107,18 +107,11 @@ The trained model and vectorizer are saved using pickle:
 * Automatically generates report using ReportLab
 * Saves file with sequential naming:
 
-sentiment_report_1.pdf
-sentiment_report_2.pdf
+
 ...
 
 ---
 
-## 📸 Screenshot
-
-Add your screenshot here:
-
-```md
-![Prediction Output](prediction_result.png)
 ```
 
 ---
@@ -154,7 +147,6 @@ sentiment-analysis-app/
 │── model.pkl
 │── vectorizer.pkl
 │── notebook.ipynb
-│── prediction_result.png
 │── sentiment_report_1.pdf
 │── README.md
 │── .gitignore
@@ -175,9 +167,3 @@ sentiment-analysis-app/
 
 **Mohd Fauzan**
 M.Tech Data Science | JNU
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
